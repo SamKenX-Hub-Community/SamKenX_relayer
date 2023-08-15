@@ -391,8 +391,8 @@ github.com/cockroachdb/datadriven v0.0.0-20190809214429-80d97fb3cbaa/go.mod h1:z
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd/go.mod h1:sE/e/2PUdi/liOCUjSTXgM1o87ZssimdTWN964YiIeI=
 github.com/coinbase/rosetta-sdk-go/types v1.0.0 h1:jpVIwLcPoOeCR6o1tU+Xv7r5bMONNbHU7MuEHboiFuA=
 github.com/coinbase/rosetta-sdk-go/types v1.0.0/go.mod h1:eq7W2TMRH22GTW0N0beDnN931DW0/WOI1R2sdHNHG4c=
-github.com/cometbft/cometbft v0.37.0 h1:M005vBaSaugvYYmNZwJOopynQSjwLoDTwflnQ/I/eYk=
-github.com/cometbft/cometbft v0.37.0/go.mod h1:Y2MMMN//O5K4YKd8ze4r9jmk4Y7h0ajqILXbH5JQFVs=
+github.com/cometbft/cometbft v0.37.2 h1:XB0yyHGT0lwmJlFmM4+rsRnczPlHoAKFX6K8Zgc2/Jc=
+github.com/cometbft/cometbft v0.37.2/go.mod h1:Y2MMMN//O5K4YKd8ze4r9jmk4Y7h0ajqILXbH5JQFVs=
 github.com/cometbft/cometbft-db v0.7.0 h1:uBjbrBx4QzU0zOEnU8KxoDl18dMNgDh+zZRUE0ucsbo=
 github.com/cometbft/cometbft-db v0.7.0/go.mod h1:yiKJIm2WKrt6x8Cyxtq9YTEcIMPcEe4XPxhgX59Fzf0=
 github.com/confio/ics23/go v0.9.0 h1:cWs+wdbS2KRPZezoaaj+qBleXgUk5WOQFMP3CQFGTr4=
@@ -1367,8 +1367,6 @@ github.com/spf13/viper v1.15.0/go.mod h1:fFcTBJxvhhzSJiZy8n+PeW6t8l+KeT/uTARa0jH
 github.com/stefanberger/go-pkcs11uri v0.0.0-20201008174630-78d3cae3a980/go.mod h1:AO3tvPzVZ/ayst6UlUKUv6rcPQInYe3IknH3jYhAKu8=
 github.com/strangelove-ventures/go-subkey v1.0.7 h1:cOP/Lajg3uxV/tvspu0m6+0Cu+DJgygkEAbx/s+f35I=
 github.com/strangelove-ventures/go-subkey v1.0.7/go.mod h1:E34izOIEm+sZ1YmYawYRquqBQWeZBjVB4pF7bMuhc1c=
-github.com/strangelove-ventures/interchaintest/v7 v7.0.0-20230309172329-6fab57aa06de h1:BWiVB+0lCualTDFSlAUC2AYs+sq2r29O558gahhIyAA=
-github.com/strangelove-ventures/interchaintest/v7 v7.0.0-20230309172329-6fab57aa06de/go.mod h1:3wUe5Ik4S4AzxS6ygivmC+VY7qngf/VOSn9FmXS7Ao4=
 github.com/strangelove-ventures/interchaintest/v7 v7.0.0-20230309173441-1cbc09c52979 h1:3G0ZRyzEBF/QNYQnhg2wkIop8n1W2DBb9lofGcrmYDk=
 github.com/strangelove-ventures/interchaintest/v7 v7.0.0-20230309173441-1cbc09c52979/go.mod h1:3wUe5Ik4S4AzxS6ygivmC+VY7qngf/VOSn9FmXS7Ao4=
 github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=

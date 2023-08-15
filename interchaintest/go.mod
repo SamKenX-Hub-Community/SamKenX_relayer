@@ -3,7 +3,7 @@ module github.com/cosmos/relayer/v2/interchaintest
 go 1.19
 
 require (
-	github.com/cometbft/cometbft v0.37.0
+	github.com/cometbft/cometbft v0.37.2
 	github.com/cosmos/cosmos-sdk v0.47.0-rc3
 	github.com/cosmos/ibc-go/v7 v7.0.0-rc1
 	github.com/cosmos/relayer/v2 v2.0.0
